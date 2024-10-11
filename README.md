@@ -10,7 +10,7 @@ This project is a content-based movie recommendation system that uses machine le
 ## How to Run
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/rishabh5799kumar/Movie-Recommendation-System
     ```
 2. Install the required dependencies:
     ```bash
@@ -21,7 +21,7 @@ This project is a content-based movie recommendation system that uses machine le
     - Open the Jupyter Notebook `Movie_Recommendation_System.ipynb` and execute the cells to run the code.
     
 ## Dependencies
-- Python 3.x
+- Python 3
 - NumPy
 - Pandas
 - Scikit-learn
@@ -29,6 +29,3 @@ This project is a content-based movie recommendation system that uses machine le
 ## Future Improvements
 - Incorporate a hybrid recommendation approach by combining content-based filtering with collaborative filtering.
 - Include user-based filtering to personalize recommendations further.
-
-## License
-This project is licensed under the MIT License.
